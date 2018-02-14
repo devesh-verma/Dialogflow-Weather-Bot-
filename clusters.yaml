@@ -1,0 +1,7 @@
+- alias: hasura
+  config:
+    configmap: controller-conf
+    namespace: defection43-hasura
+  data: null
+  kubeContext: defection43
+  name: defection43

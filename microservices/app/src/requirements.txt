@@ -1,0 +1,5 @@
+flask
+requests
+gunicorn
+future==0.16.0
+# add new packages one per each line
