@@ -55,7 +55,7 @@ class App extends Component {
 align="center"
     width="1500"
     height="700"
-    src="https://console.dialogflow.com/api-client/demo/embedded/newweatherbot">
+    src="https://console.dialogflow.com/api-client/demo/embedded/weatherbots">
 </iframe>
       </Paper>
 
