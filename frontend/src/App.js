@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider'
-import AppBar from 'material-ui/AppBar'
 import Toolbar, { ToolbarTitle, ToolbarSeparator } from 'material-ui/Toolbar'
 import FontIcon from 'material-ui/FontIcon';
 import IconButton from 'material-ui/IconButton';
@@ -52,6 +51,7 @@ class App extends Component {
 
 <Paper style={style}>
 <iframe
+title="chatbot"
 align="center"
     width="1500"
     height="700"
